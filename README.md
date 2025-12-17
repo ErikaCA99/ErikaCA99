@@ -2,9 +2,10 @@
 <p align="center">
 Hi,  I'm  Erika Chino  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </p>
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=Mahdiiye&color=brightgreen" alt="watching_count" />
- </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ErikaCA99&label=Profile%20views&color=brightgreen&style=flat" 
+       alt="Profile views" />
+</p>
 	
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
 
